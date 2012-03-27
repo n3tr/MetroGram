@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="0618242d-2f94-4d01-957f-1d90105fd1c0" Version="1.0.0.0" Publisher="CN=Jirat" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>MetroGram</DisplayName>
+    <Description>MetroGram</Description>
+    <PublisherDisplayName>Jirat</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="MetroGram" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="MetroGram" ForegroundText="light" BackgroundColor="#000000">
+        <DefaultTile ShowName="allLogos" WideLogo="tile-sdk.png" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+  <Dependencies>
+    <PackageDependency Name="Microsoft.WinJS.0.6.Debug" MinVersion="0.6.8229.0" />
+  </Dependencies>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>CLRHost.dll</Path>
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.BadgeContent.BadgeGlyphNotificationContent" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.BadgeContent.BadgeNumericNotificationContent" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.TileContent.TileContentFactory" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="NotificationsExtensions.ToastContent.ToastContentFactory" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
+</Package>

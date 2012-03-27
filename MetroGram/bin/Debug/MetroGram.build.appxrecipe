@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIRAT</Machine>
+    <WindowsUser>Jirat</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-25T17:14:15.130</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jirat\Desktop\Windows 8 Consumer Preview Metro style app samples\App tiles and badges sample\C#,JavaScript\NotificationsExtensions\bin\Debug\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2012-03-24T17:49:44.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\Desktop\Windows 8 Consumer Preview Metro style app samples\App tiles and badges sample\C#,JavaScript\NotificationsExtensions\bin\Debug\NotificationsExtensions.pdb">
+      <PackagePath>NotificationsExtensions.pdb</PackagePath>
+      <Modified>2012-03-24T17:49:44.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\Desktop\Windows 8 Consumer Preview Metro style app samples\App tiles and badges sample\C#,JavaScript\NotificationsExtensions\bin\Debug\NotificationsExtensions.xml">
+      <PackagePath>NotificationsExtensions.xml</PackagePath>
+      <Modified>2012-03-24T17:49:43.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\css\groupDetailPage.css">
+      <PackagePath>css\groupDetailPage.css</PackagePath>
+      <Modified>2012-03-24T21:55:39.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\css\_groupDetailPage.css">
+      <PackagePath>css\_groupDetailPage.css</PackagePath>
+      <Modified>2012-03-25T08:51:26.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-25T08:51:26.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\css\itemDetailPage.css">
+      <PackagePath>css\itemDetailPage.css</PackagePath>
+      <Modified>2012-03-25T15:41:58.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\css\groupedItemsPage.css">
+      <PackagePath>css\groupedItemsPage.css</PackagePath>
+      <Modified>2012-03-25T15:51:26.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-25T09:38:01.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\html\groupDetailPage.html">
+      <PackagePath>html\groupDetailPage.html</PackagePath>
+      <Modified>2012-03-24T21:47:16.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\html\_groupDetailPage.html">
+      <PackagePath>html\_groupDetailPage.html</PackagePath>
+      <Modified>2012-03-25T08:51:26.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\html\itemDetailPage.html">
+      <PackagePath>html\itemDetailPage.html</PackagePath>
+      <Modified>2012-03-25T15:02:44.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\html\groupedItemsPage.html">
+      <PackagePath>html\groupedItemsPage.html</PackagePath>
+      <Modified>2012-03-25T10:12:42.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\tile-sdk.png">
+      <PackagePath>tile-sdk.png</PackagePath>
+      <Modified>2012-03-16T14:32:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\appbar.js">
+      <PackagePath>js\appbar.js</PackagePath>
+      <Modified>2012-03-25T13:54:20.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\groupDetailPage.js">
+      <PackagePath>js\groupDetailPage.js</PackagePath>
+      <Modified>2012-03-25T15:38:54.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\_groupDetailPage.js">
+      <PackagePath>js\_groupDetailPage.js</PackagePath>
+      <Modified>2012-03-25T08:51:26.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-03-25T08:51:26.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-03-25T08:51:27.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-03-25T16:39:46.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\itemDetailPage.js">
+      <PackagePath>js\itemDetailPage.js</PackagePath>
+      <Modified>2012-03-25T16:42:35.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\groupedItemsPage.js">
+      <PackagePath>js\groupedItemsPage.js</PackagePath>
+      <Modified>2012-03-25T15:48:02.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2012-03-25T11:34:42.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jirat\documents\visual studio 11\Projects\MetroGram\MetroGram\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-25T16:20:11.050</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

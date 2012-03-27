@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>itemDetailPage</title>
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.0.6/css/ui-dark.css" rel="stylesheet">
+    <script src="//Microsoft.WinJS.0.6/js/base.js"></script>
+    <script src="//Microsoft.WinJS.0.6/js/ui.js"></script>
+    <link href="/css/default.css" rel="stylesheet">
+    <link href="/css/itemDetailPage.css" rel="stylesheet">
+    <script src="/js/data.js"></script>
+    <script src="/js/itemDetailPage.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="itemdetailpage fragment">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled></button>
+            <h1 class="titlearea win-type-ellipsis"><span class="pagetitle"></span></h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <article>
+                <div class="photo-meta">
+                    <img class="item-image" src="#" />
+                    <div class="item-meta">
+                        <h2>Author: <span class="item-author"></span></h2>
+                        
+                            
+                            <h2 class="item-comment-count"><span class="item-comment-text"></span> Comments</h2>
+                            <h2 class="item-like-count"><span class="item-like-text"></span> Likes</h2>
+                        <button class="item-like-button" onclick="doLike()">Like</button>
+                        
+                    </div>
+                </div>
+                <div class="item-list-comments">
+                    <h2>Comments: </h2>
+                    <div class="comments">
+                    </div>
+                    <div class="item-reply">
+                        <input type="text" class="commentBox" />
+                        <button onclick="doComment()">Submit</button>
+                    </div>
+                </div>
+
+                <div class="item-map">
+                    <img class="item-map-image" src="#" />
+                    <h2><span class="item-map-text"></span> Comments</h2>
+                            
+                </div>
+
+                <p style="display: none;" class="media-id"></p>
+            </article>
+        </section>
+    </div>
+</body>
+</html>
